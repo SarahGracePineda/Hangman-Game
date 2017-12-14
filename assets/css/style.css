@@ -1,0 +1,118 @@
+h1 {
+	font-family: "Helvetica";
+	text-align: center;
+	width: 30%;
+	height: 10%;
+	padding: 50px;
+	background-color: #ed87cb;
+	color: white;
+
+
+}
+
+#hangmanHeader {
+	margin-left:30%;
+
+
+}
+
+body {
+	font-family: "Helvetica";
+
+}
+
+.content {
+	width: 690px;
+	height: 600px;
+	background-color: #ed87cb;
+	margin-left:10%;
+
+}
+
+
+#winCounter {
+	font-family: "Helvetica";
+	text-align: center;
+	background-color: #ed87cb;
+	color: white;
+	font-size: 25px;
+	float:left;
+	border-style:solid;
+	border-color:#e4c1ff;
+	border-width:5px;
+	padding: 5% 10% 15% 10%;
+
+
+}
+
+#guessesLeft {
+	font-family: "Helvetica";
+	text-align: center;
+	background-color: #ed87cb;
+	color: white;
+	font-size: 25px;
+	float:left;
+	border-style:solid;
+	border-color:#e4c1ff;
+	border-width:5px;
+	padding: 5% 10% 15% 10%;
+
+}
+
+#retryButton {
+	font-family: "Helvetica";
+	text-align: center;
+	background-color: #ed87cb;
+	color: white;
+	font-size: 25px;
+	float:right;
+	border-style:solid;
+	border-color:#e4c1ff;
+	border-width:5px;
+	padding: 5% 2.5% 15% 4%;
+
+
+	/*font-family: "Helvetica";
+	text-align: center;
+	background-color: #ed87cb;
+	color: white;
+	font-size: 25px;
+	margin-left:auto;
+	margin-right:auto;*/
+
+
+}
+
+#retry {
+margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#word {
+	text-align: center;
+/*	margin-top:50%;*/
+	color:white;
+}
+
+
+
+/*#hangmantitle {
+	font-family: Helvetica;
+	text-align: center;
+	te
+	width:50%;
+	height:10%;
+	padding: 50px;
+	background-color:pink;
+	color: white;
+	align-self:center;
+
+
+
+
+}
+
+
+*/
